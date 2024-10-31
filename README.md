@@ -42,7 +42,8 @@ pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-pyt
 6. Run the script with:
 bash
 Copy code
-```python your_script.py
+```
+python your_script.py
 ```
 7. The first run will open a browser window for authorization. Afterward, token.json will be used for repeated authorizations without additional logins.
 8. View Results:
